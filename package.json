@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "dependencies": {
+    "backbone": "^1.2.1",
+    "bootstrap": "^3.3.5",
+    "handlebars": "^3.0.3",
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-handlebars": "^0.10.2",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-watch": "*",
+    "jit-grunt": "*"
+  }
+}
